@@ -1,0 +1,11 @@
+directories:
+  output: dist
+  buildResources: build
+productName: SWG-Origins-Launcher
+win:
+  target:
+    - nsis
+    - zip
+nsis:
+  perMachine: true
+electronVersion: 1.6.18

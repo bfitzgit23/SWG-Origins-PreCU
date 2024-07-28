@@ -1,0 +1,190 @@
+ {
+  "required": [
+    {
+      "name": "origins_1.tre",
+      "size": 29636,
+      "hash": "9e09f01ec08e9f6d07d6324a40efa772",
+      "url": "https://download1526.mediafire.com/ldg2jttj8rvgJ08Gyx7DKbQluhPTXxPEP1fQAqaN0U0J838PDGr7ntTLhiO2X8pdDWN3rpm4g1FKtdBVJU4vDkmdUMCCc1r7bz8pGwJXrSpXN0TUr8hUQZdWcOH4BPauPrSvLR070uk3Ew3f_6DN7Xz1bVKAOkIiJfgv08IpzgH-nA/ypz9qt8oo4lvrrq/origins_1.tre"
+    },
+    {
+      "name": "species.tre",
+      "size": 3889794,
+      "hash": "ab83d7204ff31daf82dfb151fdee1831bb044628",
+      "url": "https://download940.mediafire.com/jcmbaskic2agflOYuuPjhPdWnyFEJwuTGxaGPN6eeNM9WbU9KM0fSbMKUapMRB6_xVpzKMcRTL99kIjnTkrPTlIQWRoip8vU2axNwn9RzTuFsZ12qQHpC7UUK1rbmJXjhHtMwEq-pS2KfSqY9hn6If9luUWNciOSTztoByLNUKImxg/gaely8ukizp4hby/species.tre"
+    },
+    {
+      "name": "Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre",
+	    "size": 285,
+	    "hash": "67d977e6adf89c2839e31a6842c3839e",
+      "url": "https://download1648.mediafire.com/5ox9299szs4g3NrfEduXVtU7ozy-TggjdkpvUWsjUAvf7JQZSNwAr4SIsy1ikt6tS_A3vl04Xu62RJoOvihh95Y0VKqwmiOcsvTtNia7Svc6IrCQaLyneT8m_2RiG73w-R51SCBwsTJF5bnOnDpn4xhocHL4vfIk_KkfiWf238TqTQ/eb08m0l03rabwty/Enhanced_SWGEmu_Saber_Trails_-_Valkyra.tre"
+    },
+    {
+      "name": "tat_mando_bunker_test.tre",
+	    "size": 331611,
+	    "hash": "8e39f57dcd313dbf17dd19d72eeff5ee",
+      "url": "https://download1501.mediafire.com/1cvr31vcdy2gb6EA32Z8sXmMp97jMSYBjInDepLDBqDHp3TrSIj-VmvG3HUvZPvyrdf__AAtbgssfSqEgNpa1oOAeOPS7jUZRAf_2c6zi8Kbxr5BCUqb0oVdcf-FJTShOZyDG0OAzOQcdopLSufs0vW_Qde44wYzlaavMEGrCfy6Nw/873ps6egywoj0w9/tat_mando_bunker_test.tre"
+    },
+    {
+      "name": "tanaab.tre",
+      "size": 333,
+      "hash": "9002067e7a375c0369b6ed6dcd829d0d",
+	    "url": "https://download1075.mediafire.com/r1wreq4sudugoprn7roYoMwi3iZaClUD46v-dwA7W-S11a9hlNeh8e4XWYntCJc1GbyfZ8vCM5uYjkry3IfjR1MTfSweknd5KyKW2EHtcE6JLQWOFoWjzjws-fsykKPTM-BlvdpnBS5KfeNGfG0Mao2Wxikv5NoYbae8W66qwvlhjg/3j185qpnwx24y5t/tanaab.tre"
+    },
+    {
+      "name": "mandalore.tre",
+      "size": 974779,
+	    "hash": "67883fa9799e5f7825336b50d84af2fc",
+	    "url": "https://download1582.mediafire.com/k35pokmaqdfgOvE0GOeSUEvy92M1pavXbuXvBqZRirfIayD-0hNeawX0s2HOQNo6gPZhmVF3V89-1u9iaH6KeBibX22sE6RRytauiRnxJsWKDey6XcOpV68q2JwoeP2uaOE9g0VyzKvGYgtA8U7Gaspjh8m2RxdhMdr5ImmiAGrRJg/gbbqyrzkaxmmxvu/mandalore.tre"
+    },
+    {
+      "name": "mtg_patch_023.tre",
+      "size": 12063769,
+      "hash": "23d6494b76c57280b498522e60946c4f",
+      "url": "https://swg-origins.com/tre/mtg_patch_023.tre"
+    },
+    {
+      "name": "swgemu_live.cfg",
+      "size": 1670,
+      "hash": "6e3d12182f68b0e2f815841a97681e314efd80ba",
+      "url": "https://download1590.mediafire.com/5satymfuhdogBGFXEBAO2j9bqMGX79r7B-Ig23ac34F_oBLPMI6fQKeXaIWc7BhxSfzn3VWXkDpTY1vuLjVGFGPMbpXzseRyh3smygK0tSX7CgJROvqNPkLgCn5n_3ZSZutTG-2betJ9kcLbPhVYhjf477gLF1SNG7-i8bonSs7NRA/4g84alcwwqvk6xt/swgemu_live.cfg"
+    },
+    {
+      "name":"mtg_patch_001_appearance_01.tre",
+      "url":"https://download847.mediafire.com/lkwvmfv40cbgsf88w-hcLXfZaXJGoqjN5YtvbF7LUObkUi3JAFyy7pY40ZS8qlJcJ74PTbY_SJ4O-r1C7nVfbbEbwtopgTWwDQcrHCwFN0DAuBSO8p6__Gi92WkcEvKluANdQRn0sWeUYInzLtqfmzL0W5xZyevT7nOadA4H9fj9IA/miap6fvvw0a3dg9/mtg_patch_001_appearance_01.tre",
+      "hash":"2e31f8eeb8928544fb32a153a1ba67d5",
+      "size":130352746
+    },
+    {
+      "name":"mtg_patch_002_appearance_02.tre",
+      "url":"https://download1523.mediafire.com/049y3567lq1gKyTB-g5SY2p9CP1V7xFQlZDQarG5uy4QBjagbCyX0YVwT7MmULhU1U7G1KKdPMv57j6oGoKX-wcGSwreTvkV5yKgYKDN90-s3fQeYsWnNtLFwBudunOw5CM8mGqdRN0k9nHoeBA9T4vcqvVkJJPav1JqW3YNO9LzZw/o56fddhew5z0byq/mtg_patch_002_appearance_02.tre",
+      "hash":"3b38b9e73ec985a1ab6569adf6b1e5b4",
+      "size":3343625
+    },
+    {
+      "name":"mtg_patch_003_appearance_03.tre",
+      "url":"https://download1501.mediafire.com/h3jciaz3cnagiuBrl9942R4bZUQpCjo1ky6ykEN0yP89k6GMwBD_vfBBtfc5aUnBwh71SCjlTqPqxW7IfQO1OzgAqsF3d7YGwxp3cagmga_W6bm3KAMJaBusPkKASTcDQOO4nN67gjx-JQtfeHk7DiXMC9rdioxDpPyTapEr4Etkgg/cxzhp22dprhjq7z/mtg_patch_003_appearance_03.tre",
+      "hash":"03ab7e158ff6d815786e1f9d0b027f35",
+      "size":243163263
+    },
+    {
+      "name":"mtg_patch_004_appearance_04.tre",
+      "url":"https://swg-origins.com/tre/mtg_patch_004_appearance_04.tre",
+      "hash":"fcd873584e6033a067e0f9a5052d3ee1",
+      "size":447614618
+    },
+    {
+      "name":"mtg_patch_005_texture_01.tre",
+      "size":437756721,
+      "hash":"525b14712fc72a490c1834e2e624408b",
+      "url":"https://download1501.mediafire.com/3utjgrra440gMEAyRCyRBDFHHnOFHKQzfXz1gRYWHUfrYhSASDM3UDN84aZwBv9dziF31tWAoBKO0It1FexVE2fqpccC4RB8uBm0XEZ9NWIObEFd2_tLEGV5Cy6qWW9SanTZOHifowyXPEzlWTrAhrUPMMyUR2vFzD8wj-9_Uro_nA/6fhq1chr6gutirq/mtg_patch_005_texture_01.tre"
+    },
+    {
+      "name":"mtg_patch_006_texture_02.tre",
+      "size":464727568,
+      "hash":"9439922cdc4dfe15fa4c9b499abb8031",
+      "url":"https://download1501.mediafire.com/3utjgrra440gMEAyRCyRBDFHHnOFHKQzfXz1gRYWHUfrYhSASDM3UDN84aZwBv9dziF31tWAoBKO0It1FexVE2fqpccC4RB8uBm0XEZ9NWIObEFd2_tLEGV5Cy6qWW9SanTZOHifowyXPEzlWTrAhrUPMMyUR2vFzD8wj-9_Uro_nA/6fhq1chr6gutirq/mtg_patch_005_texture_01.tre"
+    },
+    {
+      "name":"mtg_patch_007_texture_03.tre",
+      "size":253034043,
+      "hash":"3fa498401a1ac1cd422969898dc43b73",
+      "url":"https://swg-origins.com/tre/mtg_patch_007_texture_03.tre"
+    },
+    {
+      "name":"mtg_patch_008_texture_04.tre",
+      "size":395834904,
+      "hash":"d1f1864eaf119d30f6f42d9cd8fea338",
+      "url":"https://download1322.mediafire.com/0fo0afvjva6gKge7GvALxyy7ek6U0uZlZHiKygIUpKLRm3DFPSZ5vk047Nh0t4s8wuzps-bBiAnkqk-XFRR_VNpZGjc_ORYTXBi4VtURDA3iHEj2B_BuvP-K24szQe-S05dGgp8YB3qDSYykHoWVp63qxaMwx0CExgkLPakCXA7gjQ/vdojp48wbihqepp/mtg_patch_008_texture_04.tre"
+    },
+    {
+      "name":"mtg_patch_009_Shader_01.tre",
+      "size":4844099,
+      "hash":"4650f95db3bdf55cbf773f2621ed5a9b",
+      "url":"https://download856.mediafire.com/rtygtiva1j3gDt-WLidi7b6hCqgKN8rCZE_SXY3hE7Tg9g7z_yP6G5-xKAvYe6MOoykyPkdrFNLbKeNRXmwHUIbnvVUYPxhv__snCFhelKYgYR8os4qpUvUHjRhWV4f43PRoI8tYapGNfCYDApmSCeoEBLUU97F-3BhcmT5yRL_nkw/7hi18kcqfscokdk/mtg_patch_009_Shader_01.tre"
+    },
+    {
+      "name":"mtg_patch_010_object_01.tre",
+      "size":13595153,
+      "hash":"34c498b16d6864af9ffbc6ba844fd37c",
+      "url":"https://download1654.mediafire.com/iwa13wwwzuvgRsrKXUtXxvVVjkbwYiQhbJWzy9kkJGPJdWOtpDmv_kzlMlSea0lSppgxzE1H5AVrFggII2DbV8SmvUNF3s2UUfXcpA9PY3PSylSO5Eul3L_b_7roRXEG_AC52fFpTVOx5XOl005gDi61HJDComdkbtNhfwQ0pIP6TQ/2zkkxwr5v6q9vub/mtg_patch_010_object_01.tre"
+    },
+    {
+      "name":"mtg_patch_011_files_01.tre",
+      "size":804741063,
+      "hash":"c4d736eefd5908c163a46ef212ff5e4e",
+      "url":"https://download1336.mediafire.com/hk03opv9irughGLlxq3xf4up1owaevdPDhhEHJWmukVRoO_D3w6isdCBBoWLy1FjdKJN1qYETNWnemLeyq9QvHsq6L4vHF88jd3USNp1FRllMRFFDIDLyzRdOgnlcqtGQrPtGVUI7hw7kjM3kCBesWq4yn3Au67Y_E6AytwD_5uJrA/nfqgcp9lyvaije0/mtg_patch_011_files_01.tre"
+    },
+    {
+      "name":"mtg_patch_012_configurable_01.tre",
+      "size":3936147,
+      "hash":"8e39ce729d015ba0279e1f1512835abd",
+      "url":"https://download1336.mediafire.com/hk03opv9irugFB4g6eVFEnsA_aP8To80PefNqWoMIF2Pq5vOQPZphX4HoSmSw1iUTMCHLM7GbtH2ru-z3eG89JEUJocgwNDWNy0aANiQD_Ci3ZWWpZLeEnyWPWEHow1VwJ3oNZE8sn00Qvc5lBhj5TKu9rYm0NytJYGBjaMj79myhg/nfqgcp9lyvaije0/mtg_patch_011_files_01.tre"
+    },
+    {
+      "name":"mtg_patch_013_configurable_02.tre",
+      "size":29281665,
+      "hash":"f9d91392e431549e34eb197d88ad29b8",
+      "url":"https://download1321.mediafire.com/df23isy8d3ygSRXBnb2chq1DwnEUyOeSNWt4tGzk3CVkngoaGA3VVCvL1DK8rk5cYlik141NN9GKin55w2n-ew8j9yXnchMYCfpNj8RUo1_FXsSh3OH2cHYltEKlmf7n1wZNbvcXrVPXfqY6bIoPYmlkNncXAAQN0utMo0awuJBvLw/baxx1d9vu6jjytb/mtg_patch_013_configurable_02.tre"
+    },
+    {
+      "name":"mtg_patch_014.tre",
+      "size":282442081,
+      "hash":"1509f04efb0638a33e07897aa98ec1c7",
+      "url":"https://download946.mediafire.com/1wo9lrikrxmgjEGtxS1vC-NvsekQukBiFhtPyJ0ZctAbnzfMyR_OcIJWSHpIC-2KF6UMc190QAlUXlXBKP5gxjbWbd3lPBi8nyX7zsCF6R43ZzdQRs9P4PllXcm76npQa-jS9TDR66Ws_zGLL1CMOXlnEGDjFKQ3OlVlW0dq1KA5UA/yifjgm4v8ncc57r/mtg_patch_014.tre"
+    },
+    {
+      "name":"mtg_patch_015.tre",
+      "size":341320580,
+      "hash":"cc61b47d35d40ba6692d7f62ede4422e",
+      "url":"https://download946.mediafire.com/1wo9lrikrxmgjEGtxS1vC-NvsekQukBiFhtPyJ0ZctAbnzfMyR_OcIJWSHpIC-2KF6UMc190QAlUXlXBKP5gxjbWbd3lPBi8nyX7zsCF6R43ZzdQRs9P4PllXcm76npQa-jS9TDR66Ws_zGLL1CMOXlnEGDjFKQ3OlVlW0dq1KA5UA/yifjgm4v8ncc57r/mtg_patch_014.tre"
+    },
+    {
+      "name":"mtg_patch_016.tre",
+      "size":332790542,
+      "hash":"f8dd27d8bfb0f03065fbe30c8aeb2781",
+      "url":"https://download938.mediafire.com/893ob6bx64rgYv2OJCP-FGF5ol_dRRcEM-FmPDnbse3QbXXpHpAHC_YCgTJ6pPjstaoa-tVZ8F2F7Y79MYnNj0_q-FBm41MBzIHxR_txEQNNM_-IJWhIjKtW8nwn6X4nIgtqkqLMzAt5IZQO6ERz1k508unxIYvs241ekcfhXDdy3Q/a0g8wsr6vpxnp1i/mtg_patch_016.tre"
+    },
+    {
+      "name":"mtg_patch_017.tre",
+      "size":664075057,
+      "hash":"a0d9783229b5274b402175802138ff1f",
+      "url":"https://download1655.mediafire.com/9w0vls7pdtigBxLeqELA82BPNAxUMlW251cAveX_5FBHJKHtqNbjYiPwsi8iuI5Eea3ziQyntphmjH6E4FQ52rbYEQqXgYqddhSJZiOvEFPjBhpzCjJRdXXC7NnMDifN2L6AIMYFFj4E9M_D0bzEBv5sbs7d-uxeofCz3vLH3bRiEA/vg7ozh0btxgtmwk/mtg_patch_017.tre"
+    },
+    {
+      "name":"mtg_patch_018.tre",
+      "size":2514431,
+      "hash":"16ad88edf3bd22b5f3142d1c2bd39ac9",
+      "url":"https://download1591.mediafire.com/eq3eeg0ifn6gnTFFRJBHSvHSiIvzSmZLdjgZkTC8f2Bxd2t2wo-6YB0a81bh5nwOJHeeEvZwtgyRCxUPD7WoYap-zhITiaCIgylFAh5M751GF_eowGq9sEbg3aqU77WPZxRPGsIqm_jAnTH6eww9MkkjmWGY2kn1yI3ady96v9Lltg/hr0divkhowcdfes/mtg_patch_018.tre"
+    },
+    {
+      "name":"mtg_patch_019.tre",
+      "size":6377563,
+      "hash":"06d2cbad853ee5a0f63e90f0171d65cb",
+      "url":"https://download1076.mediafire.com/p3tvi91lwe2g29aWTsE5s7-TS7bR8Zohn7G5Cszm7MPsbY83hVdqsiecZEcfmmhsRua1qgHYdroXrWOF3YQ3fK-8t4jnOqoML-FxXRO-oKkBZjYCewmaVH8Y6OT0Ixx_qRjEsWnMnbCGFlA6yYsvXj1pmQvbQxrijTqsFaK2NeiNyQ/g2freo6ov4wg0yp/mtg_patch_019.tre"
+    },
+    {
+      "name":"mtg_patch_021.tre",
+      "size":1060269,
+      "hash":"9bda131fd817c8b5dd280eda7c39bac4",
+      "url":"https://download1325.mediafire.com/2ngz0wrk7stgYFP_eBk3D_T8X8oWWCVpm5Z1QXHEF29mcW2nTPdv2eoyV5Ep-jUOwb09rpZlF7PRgtCpm2xg-4o-4K2F9h1ixVWiGm9NVidDjXk5wNEqjZCG-rQDuVo6Ri8csssv3a_LKWUlbqH-trdD9tnKki3qjxj7mJRjbdjqmQ/b5gcbzqgozd3arb/mtg_patch_021.tre"
+    },
+    {
+      "name":"mtg_patch_022.tre",
+      "size":22424507,
+      "hash":"7531403a209c952c4fdbd13a1d3aea69",
+      "url":"https://download1507.mediafire.com/zuu8131bez6gayDhr1_cUexjJix2qrHoBTBc1Ejxd2LhUolE2R42Gr5dgruIEfCT5NRG5cDN63V0de3LpkbYwdnBFGG41j1xcFWu81bQCvm2i_H06acTK8mvZIXOCwNxSyDwUzZk8H1athnA6wBS4NipuGMZsK3NnuD9ZAxdIFClPw/i9ts58b4sqep9vq/mtg_patch_022.tre"
+    },
+    {
+      "name":"mtg_patch_023.tre",
+      "size":17471876,
+      "hash":"c1a523eaa3b2b462aeed020f66120c35",
+      "url":"https://download1322.mediafire.com/r30vn2abnd7g2yMeofC1hpauYN6BHQdd-630qhzU4yzqIBcWgIfY5O5hpJCZG7KR8nYkcRJYNApTw3DVtnau7MOdgLIZeU9LA-IsO3umaHCBAl0Qi8Bh8w8v8ZHdgsGcs-jctd1bwE_tbYVg4p0TvsBtZvNvFU3Kr7VXqMGOlZUOfQ/4hhswsmuafq73p0/mtg_patch_023.tre"
+    },
+    {
+      "name":"mtg_planets.tre",
+      "size":135424016,
+      "hash":"084a4acc05be69c011f415b46f8afdfb",
+      "url":"https://download1479.mediafire.com/yelrtn9wz8agg6LHpPqqZx2_wBTjWK5m4MJ9nfYCYTa-gihUulxiOK_8PGP7v3zK4uELV85ikyApgar-4BTf6T0DrGv5clfMVc82rMV1txPpC2_C0zHSZfRoguBbdt7ocZ6nhRMaYRis-fZKW21jfI_Sp-6j81YMVcPKmSMuEAl4Aw/djuj8ke6odrtma4/mtg_planets.tre"
+    }
+  ]
+}
